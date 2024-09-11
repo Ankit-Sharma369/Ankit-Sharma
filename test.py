@@ -1,4 +1,4 @@
-name = "ANkit "
+name = "A"
 
 
 j = "jklmnop"
